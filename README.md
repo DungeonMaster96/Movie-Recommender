@@ -70,6 +70,3 @@ Contributions are welcome! Please fork this repository and submit a pull request
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
-
-# APP LINK
-https://movie-recommender-jpwlqsimhcwbgtdifyrbtp.streamlit.app/
